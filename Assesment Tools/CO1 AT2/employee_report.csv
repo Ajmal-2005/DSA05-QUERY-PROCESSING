@@ -1,0 +1,11 @@
+Employee_ID,Employee_Name,Department_ID,Designation,Salary,Department_Name,Location
+E001,Amit Shah,D101,Software Engineer,55000,Computer Science,Building A
+E002,Neha Gupta,D102,Data Analyst,48000,Data Science,Building B
+E003,Ravi Patel,D103,Mechanical Engineer,50000,Mechanical,Building C
+E004,Sonal Mehta,D101,Team Lead,72000,Computer Science,Building A
+E005,Vikram Jain,D104,Civil Engineer,47000,Civil,Building D
+E006,Pooja Reddy,D102,Senior Analyst,60000,Data Science,Building B
+E007,Arjun Das,D105,Intern,20000,Research,Building E
+E008,Kavita Nair,D106,HR Executive,45000,Unknown,Not Assigned
+E009,Manoj Kumar,D103,Junior Engineer,38000,Mechanical,Building C
+E010,Divya Sharma,D107,Marketing Head,68000,Unknown,Not Assigned

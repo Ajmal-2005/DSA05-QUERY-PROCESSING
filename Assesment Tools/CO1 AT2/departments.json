@@ -1,0 +1,27 @@
+[
+    {
+        "Department_ID": "D101",
+        "Department_Name": "Computer Science",
+        "Location": "Building A"
+    },
+    {
+        "Department_ID": "D102",
+        "Department_Name": "Data Science",
+        "Location": "Building B"
+    },
+    {
+        "Department_ID": "D103",
+        "Department_Name": "Mechanical",
+        "Location": "Building C"
+    },
+    {
+        "Department_ID": "D104",
+        "Department_Name": "Civil",
+        "Location": "Building D"
+    },
+    {
+        "Department_ID": "D105",
+        "Department_Name": "Research",
+        "Location": "Building E"
+    }
+]

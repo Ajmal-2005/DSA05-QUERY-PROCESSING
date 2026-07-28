@@ -1,0 +1,16 @@
+Patient_ID,Patient_Name,Age,Blood_Group,Contact_Number
+P001,Rajesh Kumar,45,B+,9876543001
+P002,Sunita Devi,32,A-,9876543002
+P003,Mohammed Ali,-5,O+,9876543003
+P001,Rajesh Kumar,45,B+,9876543001
+P004,Lakshmi Rao,,AB+,9876543004
+P005,John Peter,28,B-,
+P006,Ananya Mishra,150,A+,9876543006
+P007,Suresh Babu,55,,9876543007
+P008,Fatima Khan,38,O-,9876543008
+P003,Mohammed Ali,-5,O+,9876543003
+P009,Ganesh Iyer,67,A+,
+P010,Rita Fernandez,0,B+,9876543010
+P011,Harpreet Singh,42,AB-,9876543011
+P012,Deepa Nair,,O+,9876543012
+P013,Venkat Reddy,200,B+,9876543013
