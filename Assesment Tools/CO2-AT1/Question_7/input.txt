@@ -1,0 +1,16 @@
+Sample Input Data for Question 7 - Inventory Management System
+================================================================
+
+Product Records:
+-----------------
+Product ID: 601, Name: Laptop, Category: Electronics, Quantity: 25, Unit Price: 45000.00
+Product ID: 602, Name: Mouse, Category: Electronics, Quantity: 8, Unit Price: 500.00
+Product ID: 603, Name: Notebook, Category: Stationery, Quantity: 5, Unit Price: 50.00
+Product ID: 604, Name: Pen Drive, Category: Electronics, Quantity: 3, Unit Price: 350.00
+Product ID: 605, Name: Desk Chair, Category: Furniture, Quantity: 15, Unit Price: 8000.00
+Product ID: 606, Name: Marker Set, Category: Stationery, Quantity: 7, Unit Price: 120.00
+Product ID: 607, Name: Monitor, Category: Electronics, Quantity: 12, Unit Price: 15000.00
+
+Restock Operation:
+-------------------
+All products with quantity < 10 are restocked by adding 20 units.

@@ -1,0 +1,14 @@
+Sample Input Data for Question 9 - Vehicle Registration Database
+==================================================================
+
+Vehicle Records:
+-----------------
+Reg Number: TN01AB1234, Owner: Kiran Raj, Type: Car, Brand: Hyundai, Year: 2022, Fuel: Petrol
+Reg Number: KA02CD5678, Owner: Meera Sharma, Type: Bike, Brand: Honda, Year: 2023, Fuel: Petrol
+Reg Number: MH03EF9012, Owner: Vivek Gupta, Type: Car, Brand: Tata, Year: 2021, Fuel: Diesel
+Reg Number: DL04GH3456, Owner: Aarti Singh, Type: SUV, Brand: Mahindra, Year: 2023, Fuel: Diesel
+Reg Number: AP05IJ7890, Owner: Naveen Kumar, Type: Car, Brand: MG, Year: 2024, Fuel: Electric
+
+Search Operation:
+------------------
+Search for vehicle with Registration Number: MH03EF9012

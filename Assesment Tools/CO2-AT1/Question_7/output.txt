@@ -1,0 +1,42 @@
+Connected to SQLite database successfully.
+Product table created successfully.
+7 product records inserted.
+
+All Products:
+======================================================================
+ID      Product Name      Category       Quantity    Unit Price
+======================================================================
+601     Laptop            Electronics    25          45000.00
+602     Mouse             Electronics    8           500.00
+603     Notebook          Stationery     5           50.00
+604     Pen Drive         Electronics    3           350.00
+605     Desk Chair        Furniture      15          8000.00
+606     Marker Set        Stationery     7           120.00
+607     Monitor           Electronics    12          15000.00
+======================================================================
+
+Products with Quantity < 10 (Low Stock):
+----------------------------------------------------------------------
+  602     Mouse             Electronics    8           500.00
+  603     Notebook          Stationery     5           50.00
+  604     Pen Drive         Electronics    3           350.00
+  606     Marker Set        Stationery     7           120.00
+
+Total low-stock products: 4
+
+Restocked all low-stock products by adding 20 units.
+
+Updated Inventory:
+======================================================================
+ID      Product Name      Category       Quantity    Unit Price
+======================================================================
+601     Laptop            Electronics    25          45000.00
+602     Mouse             Electronics    28          500.00
+603     Notebook          Stationery     25          50.00
+604     Pen Drive         Electronics    23          350.00
+605     Desk Chair        Furniture      15          8000.00
+606     Marker Set        Stationery     27          120.00
+607     Monitor           Electronics    12          15000.00
+======================================================================
+
+Database connection closed.

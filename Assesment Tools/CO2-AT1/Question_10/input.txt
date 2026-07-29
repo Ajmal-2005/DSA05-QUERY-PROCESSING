@@ -1,0 +1,18 @@
+Sample Input Data for Question 10 - Hospital Appointment Management System
+============================================================================
+
+Doctor Records:
+----------------
+Doctor ID: 801, Name: Dr. Ramesh Babu, Specialization: Cardiology, Phone: 9223344556, Experience: 15 years
+Doctor ID: 802, Name: Dr. Anitha Menon, Specialization: Neurology, Phone: 9223344557, Experience: 10 years
+Doctor ID: 803, Name: Dr. Suresh Reddy, Specialization: Orthopedics, Phone: 9223344558, Experience: 12 years
+Doctor ID: 804, Name: Dr. Kavitha Iyer, Specialization: Dermatology, Phone: 9223344559, Experience: 8 years
+
+Appointment Records:
+---------------------
+Appt ID: 1, Patient: Rajesh Kumar, Date: 2025-03-10, Time: 09:00 AM, Doctor ID: 801
+Appt ID: 2, Patient: Priya Das, Date: 2025-03-10, Time: 10:30 AM, Doctor ID: 802
+Appt ID: 3, Patient: Anil Sharma, Date: 2025-03-11, Time: 11:00 AM, Doctor ID: 801
+Appt ID: 4, Patient: Deepa Nair, Date: 2025-03-11, Time: 02:00 PM, Doctor ID: 803
+Appt ID: 5, Patient: Vikram Rao, Date: 2025-03-12, Time: 09:30 AM, Doctor ID: 804
+Appt ID: 6, Patient: Sunitha Patel, Date: 2025-03-12, Time: 03:00 PM, Doctor ID: 802

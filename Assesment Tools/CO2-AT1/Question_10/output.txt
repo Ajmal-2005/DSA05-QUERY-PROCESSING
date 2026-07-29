@@ -1,0 +1,18 @@
+Connected to SQLite database successfully.
+Doctor and Appointment tables created successfully.
+4 doctor records inserted.
+6 appointment records inserted.
+
+Doctor Appointment Details (SQL JOIN):
+===============================================================================================
+Appt ID   Patient Name      Date           Time        Doctor Name           Specialization
+===============================================================================================
+1         Rajesh Kumar      2025-03-10     09:00 AM    Dr. Ramesh Babu       Cardiology
+2         Priya Das         2025-03-10     10:30 AM    Dr. Anitha Menon      Neurology
+3         Anil Sharma       2025-03-11     11:00 AM    Dr. Ramesh Babu       Cardiology
+4         Deepa Nair        2025-03-11     02:00 PM    Dr. Suresh Reddy      Orthopedics
+5         Vikram Rao        2025-03-12     09:30 AM    Dr. Kavitha Iyer      Dermatology
+6         Sunitha Patel     2025-03-12     03:00 PM    Dr. Anitha Menon      Neurology
+===============================================================================================
+
+Database connection closed.

@@ -1,0 +1,17 @@
+Connected to SQLite database successfully.
+Department and Employee tables created successfully.
+4 department records inserted.
+5 employee records inserted.
+
+Employee Details with Department Names (SQL JOIN):
+===========================================================================
+Emp ID    Employee Name       Age   Salary      Department          Location
+===========================================================================
+201       Ravi Kumar          30    55000.00    Computer Science    Block A
+202       Anitha Raj          28    48000.00    Electronics         Block B
+203       Suresh Babu         35    62000.00    Mechanical          Block C
+204       Deepa Nair          26    45000.00    Computer Science    Block A
+205       Karthik Raman       32    58000.00    Civil               Block D
+===========================================================================
+
+Database connection closed.

@@ -1,0 +1,18 @@
+Connected to SQLite database successfully.
+Faculty and Course tables created successfully.
+4 faculty records inserted.
+6 course records inserted.
+
+Faculty and Course Details (SQL JOIN):
+==========================================================================================
+Course ID   Course Name           Credits   Faculty Name          Designation           Dept
+==========================================================================================
+CS101       Data Structures       4         Dr. Srinivasan        Professor             Computer Science
+CS102       Database Systems      3         Dr. Srinivasan        Professor             Computer Science
+MA201       Linear Algebra        3         Dr. Meena Kumari      Associate Professor   Mathematics
+PH301       Quantum Physics       4         Dr. Ashok Verma       Professor             Physics
+CS103       Python Programming    3         Dr. Priya Nair        Assistant Professor   Computer Science
+MA202       Probability           3         Dr. Meena Kumari      Associate Professor   Mathematics
+==========================================================================================
+
+Database connection closed.

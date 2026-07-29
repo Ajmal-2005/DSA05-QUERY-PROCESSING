@@ -1,0 +1,10 @@
+Sample Input Data for Question 1 - Student Database
+====================================================
+
+Student Records:
+-----------------
+Student ID: 101, Name: Arun Kumar, Age: 20, Gender: Male, Department: Computer Science, Email: arun@college.edu
+Student ID: 102, Name: Priya Sharma, Age: 21, Gender: Female, Department: Electronics, Email: priya@college.edu
+Student ID: 103, Name: Rahul Verma, Age: 19, Gender: Male, Department: Mechanical, Email: rahul@college.edu
+Student ID: 104, Name: Sneha Patel, Age: 22, Gender: Female, Department: Civil, Email: sneha@college.edu
+Student ID: 105, Name: Vikram Singh, Age: 20, Gender: Male, Department: Computer Science, Email: vikram@college.edu

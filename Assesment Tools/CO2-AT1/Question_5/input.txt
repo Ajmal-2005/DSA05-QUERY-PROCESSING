@@ -1,0 +1,19 @@
+Sample Input Data for Question 5 - Online Course Registration System
+======================================================================
+
+Student Records:
+-----------------
+Student ID: 401, Name: Amit Joshi, Email: amit@learn.com, Phone: 9001234567
+Student ID: 402, Name: Neha Kapoor, Email: neha@learn.com, Phone: 9001234568
+Student ID: 403, Name: Rajesh Iyer, Email: rajesh@learn.com, Phone: 9001234569
+Student ID: 404, Name: Divya Menon, Email: divya@learn.com, Phone: 9001234570
+Student ID: 405, Name: Sunil Patil, Email: sunil@learn.com, Phone: 9001234571
+
+Course Registration Records:
+------------------------------
+Reg ID: 1, Student ID: 401, Course: Python Programming, Date: 2025-02-01
+Reg ID: 2, Student ID: 401, Course: Data Science, Date: 2025-02-05
+Reg ID: 3, Student ID: 402, Course: Web Development, Date: 2025-02-03
+Reg ID: 4, Student ID: 403, Course: Machine Learning, Date: 2025-02-07
+Reg ID: 5, Student ID: 404, Course: Python Programming, Date: 2025-02-10
+Reg ID: 6, Student ID: 405, Course: Database Management, Date: 2025-02-12

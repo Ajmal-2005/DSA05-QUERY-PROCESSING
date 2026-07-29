@@ -1,0 +1,31 @@
+Connected to SQLite database successfully.
+Patient table created successfully.
+5 patient records inserted.
+
+All Patient Records:
+===============================================================================================
+ID      Name              Age   Gender    Disease           Contact        Admission
+===============================================================================================
+301     Mohan Das         45    Male      Diabetes          9876543210     2025-01-10
+302     Lakshmi Devi      30    Female    Typhoid           9876543211     2025-01-12
+303     Arjun Reddy       55    Male      Heart Disease     9876543212     2025-01-15
+304     Kavitha Rao       28    Female    Malaria           9876543213     2025-01-18
+305     Sanjay Gupta      60    Male      Asthma            9876543214     2025-01-20
+===============================================================================================
+
+Contact number of Patient ID 302 updated to 9999988888.
+Patient ID 304 (discharged) record deleted.
+
+Remaining Patient Records:
+===============================================================================================
+ID      Name              Age   Gender    Disease           Contact        Admission
+===============================================================================================
+301     Mohan Das         45    Male      Diabetes          9876543210     2025-01-10
+302     Lakshmi Devi      30    Female    Typhoid           9999988888     2025-01-12
+303     Arjun Reddy       55    Male      Heart Disease     9876543212     2025-01-15
+305     Sanjay Gupta      60    Male      Asthma            9876543214     2025-01-20
+===============================================================================================
+
+Total remaining records: 4
+
+Database connection closed.

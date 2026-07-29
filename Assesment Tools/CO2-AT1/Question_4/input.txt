@@ -1,0 +1,18 @@
+Sample Input Data for Question 4 - Hospital Patient Database
+==============================================================
+
+Patient Records:
+-----------------
+Patient ID: 301, Name: Mohan Das, Age: 45, Gender: Male, Disease: Diabetes, Contact: 9876543210, Admission: 2025-01-10
+Patient ID: 302, Name: Lakshmi Devi, Age: 30, Gender: Female, Disease: Typhoid, Contact: 9876543211, Admission: 2025-01-12
+Patient ID: 303, Name: Arjun Reddy, Age: 55, Gender: Male, Disease: Heart Disease, Contact: 9876543212, Admission: 2025-01-15
+Patient ID: 304, Name: Kavitha Rao, Age: 28, Gender: Female, Disease: Malaria, Contact: 9876543213, Admission: 2025-01-18
+Patient ID: 305, Name: Sanjay Gupta, Age: 60, Gender: Male, Disease: Asthma, Contact: 9876543214, Admission: 2025-01-20
+
+Update Operation:
+------------------
+Update Patient ID 302 contact from 9876543211 to 9999988888
+
+Delete Operation:
+------------------
+Delete Patient ID 304 (discharged)

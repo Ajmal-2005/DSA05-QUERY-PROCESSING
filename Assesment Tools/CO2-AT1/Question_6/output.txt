@@ -1,0 +1,29 @@
+Connected to SQLite database successfully.
+Account table created successfully.
+5 account records inserted.
+
+All Customer Records (Before Update):
+=====================================================================================
+Acc ID    Customer Name       Type        Balance       Phone         Address
+=====================================================================================
+5001      Ramesh Kumar        Savings     25000.00      9112345678    Chennai
+5002      Sunita Devi         Current     150000.00     9112345679    Mumbai
+5003      Ajay Mehta          Savings     45000.00      9112345680    Delhi
+5004      Pooja Reddy         Savings     32000.00      9112345681    Hyderabad
+5005      Manish Tiwari       Current     200000.00     9112345682    Bangalore
+=====================================================================================
+
+Balance of Account ID 5003 updated to 52000.00
+
+All Customer Records (After Update):
+=====================================================================================
+Acc ID    Customer Name       Type        Balance       Phone         Address
+=====================================================================================
+5001      Ramesh Kumar        Savings     25000.00      9112345678    Chennai
+5002      Sunita Devi         Current     150000.00     9112345679    Mumbai
+5003      Ajay Mehta          Savings     52000.00      9112345680    Delhi
+5004      Pooja Reddy         Savings     32000.00      9112345681    Hyderabad
+5005      Manish Tiwari       Current     200000.00     9112345682    Bangalore
+=====================================================================================
+
+Database connection closed.

@@ -1,0 +1,18 @@
+Connected to SQLite database successfully.
+Student and Course_Registration tables created successfully.
+5 student records inserted.
+6 course registration records inserted.
+
+Student Course Registrations (SQL JOIN):
+================================================================================
+Reg ID    Student Name        Email                    Course                Date
+================================================================================
+1         Amit Joshi          amit@learn.com           Python Programming    2025-02-01
+2         Amit Joshi          amit@learn.com           Data Science          2025-02-05
+3         Neha Kapoor         neha@learn.com           Web Development       2025-02-03
+4         Rajesh Iyer         rajesh@learn.com         Machine Learning      2025-02-07
+5         Divya Menon         divya@learn.com          Python Programming    2025-02-10
+6         Sunil Patil         sunil@learn.com          Database Management   2025-02-12
+================================================================================
+
+Database connection closed.

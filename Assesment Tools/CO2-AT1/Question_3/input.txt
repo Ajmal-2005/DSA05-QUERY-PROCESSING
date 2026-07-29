@@ -1,0 +1,17 @@
+Sample Input Data for Question 3 - Employee and Department Database
+=====================================================================
+
+Department Records:
+--------------------
+Dept ID: 1, Dept Name: Computer Science, Location: Block A
+Dept ID: 2, Dept Name: Electronics, Location: Block B
+Dept ID: 3, Dept Name: Mechanical, Location: Block C
+Dept ID: 4, Dept Name: Civil, Location: Block D
+
+Employee Records:
+------------------
+Emp ID: 201, Name: Ravi Kumar, Age: 30, Salary: 55000.00, Dept ID: 1
+Emp ID: 202, Name: Anitha Raj, Age: 28, Salary: 48000.00, Dept ID: 2
+Emp ID: 203, Name: Suresh Babu, Age: 35, Salary: 62000.00, Dept ID: 3
+Emp ID: 204, Name: Deepa Nair, Age: 26, Salary: 45000.00, Dept ID: 1
+Emp ID: 205, Name: Karthik Raman, Age: 32, Salary: 58000.00, Dept ID: 4

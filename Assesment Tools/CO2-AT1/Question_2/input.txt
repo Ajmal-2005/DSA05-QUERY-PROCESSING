@@ -1,0 +1,14 @@
+Sample Input Data for Question 2 - Library Management Database
+===============================================================
+
+Book Records:
+--------------
+Book ID: 1, Title: Introduction to Algorithms, Author: Thomas H. Cormen, Publisher: MIT Press, Price: 850.00
+Book ID: 2, Title: Database System Concepts, Author: Abraham Silberschatz, Publisher: McGraw Hill, Price: 720.00
+Book ID: 3, Title: Python Programming, Author: Mark Lutz, Publisher: O Reilly Media, Price: 550.00
+Book ID: 4, Title: Data Structures Using C, Author: Reema Thareja, Publisher: Oxford Press, Price: 450.00
+Book ID: 5, Title: Operating System Concepts, Author: Galvin, Publisher: Wiley, Price: 680.00
+
+Update Operation:
+------------------
+Update Book ID 3 price from 550.00 to 625.00

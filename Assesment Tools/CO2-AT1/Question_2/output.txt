@@ -1,0 +1,29 @@
+Connected to SQLite database successfully.
+Book table created successfully.
+5 book records inserted successfully.
+
+Records BEFORE price update:
+==========================================================================================
+ID    Title                              Author                   Publisher         Price
+==========================================================================================
+1     Introduction to Algorithms         Thomas H. Cormen         MIT Press         850.00
+2     Database System Concepts           Abraham Silberschatz     McGraw Hill       720.00
+3     Python Programming                 Mark Lutz                O Reilly Media    550.00
+4     Data Structures Using C            Reema Thareja            Oxford Press      450.00
+5     Operating System Concepts          Galvin                   Wiley             680.00
+==========================================================================================
+
+Price of Book ID 3 updated to 625.00
+
+Records AFTER price update:
+==========================================================================================
+ID    Title                              Author                   Publisher         Price
+==========================================================================================
+1     Introduction to Algorithms         Thomas H. Cormen         MIT Press         850.00
+2     Database System Concepts           Abraham Silberschatz     McGraw Hill       720.00
+3     Python Programming                 Mark Lutz                O Reilly Media    625.00
+4     Data Structures Using C            Reema Thareja            Oxford Press      450.00
+5     Operating System Concepts          Galvin                   Wiley             680.00
+==========================================================================================
+
+Database connection closed.

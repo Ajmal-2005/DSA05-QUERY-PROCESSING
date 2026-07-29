@@ -1,0 +1,18 @@
+Sample Input Data for Question 8 - Course and Faculty Management System
+=========================================================================
+
+Faculty Records:
+-----------------
+Faculty ID: 701, Name: Dr. Srinivasan, Designation: Professor, Dept: Computer Science, Email: srini@univ.edu
+Faculty ID: 702, Name: Dr. Meena Kumari, Designation: Associate Professor, Dept: Mathematics, Email: meena@univ.edu
+Faculty ID: 703, Name: Dr. Ashok Verma, Designation: Professor, Dept: Physics, Email: ashok@univ.edu
+Faculty ID: 704, Name: Dr. Priya Nair, Designation: Assistant Professor, Dept: Computer Science, Email: priya@univ.edu
+
+Course Records:
+----------------
+Course ID: CS101, Name: Data Structures, Credits: 4, Faculty ID: 701
+Course ID: CS102, Name: Database Systems, Credits: 3, Faculty ID: 701
+Course ID: MA201, Name: Linear Algebra, Credits: 3, Faculty ID: 702
+Course ID: PH301, Name: Quantum Physics, Credits: 4, Faculty ID: 703
+Course ID: CS103, Name: Python Programming, Credits: 3, Faculty ID: 704
+Course ID: MA202, Name: Probability, Credits: 3, Faculty ID: 702

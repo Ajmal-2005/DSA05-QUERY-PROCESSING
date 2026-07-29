@@ -1,0 +1,14 @@
+Sample Input Data for Question 6 - Banking Account Management System
+======================================================================
+
+Account Records:
+-----------------
+Account ID: 5001, Name: Ramesh Kumar, Type: Savings, Balance: 25000.00, Phone: 9112345678, Address: Chennai
+Account ID: 5002, Name: Sunita Devi, Type: Current, Balance: 150000.00, Phone: 9112345679, Address: Mumbai
+Account ID: 5003, Name: Ajay Mehta, Type: Savings, Balance: 45000.00, Phone: 9112345680, Address: Delhi
+Account ID: 5004, Name: Pooja Reddy, Type: Savings, Balance: 32000.00, Phone: 9112345681, Address: Hyderabad
+Account ID: 5005, Name: Manish Tiwari, Type: Current, Balance: 200000.00, Phone: 9112345682, Address: Bangalore
+
+Update Operation:
+------------------
+Update Account ID 5003 balance from 45000.00 to 52000.00

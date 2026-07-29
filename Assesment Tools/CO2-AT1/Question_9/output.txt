@@ -1,0 +1,27 @@
+Connected to SQLite database successfully.
+Vehicle table created successfully.
+5 vehicle records inserted.
+
+All Vehicle Records:
+==========================================================================================
+ID    Reg Number     Owner             Type    Brand       Year    Fuel
+==========================================================================================
+1     TN01AB1234     Kiran Raj         Car     Hyundai     2022    Petrol
+2     KA02CD5678     Meera Sharma      Bike    Honda       2023    Petrol
+3     MH03EF9012     Vivek Gupta       Car     Tata        2021    Diesel
+4     DL04GH3456     Aarti Singh       SUV     Mahindra    2023    Diesel
+5     AP05IJ7890     Naveen Kumar      Car     MG          2024    Electric
+==========================================================================================
+
+Searching for vehicle with Registration Number: MH03EF9012
+------------------------------------------------------------
+  Vehicle ID     : 3
+  Reg Number     : MH03EF9012
+  Owner Name     : Vivek Gupta
+  Vehicle Type   : Car
+  Brand          : Tata
+  Model Year     : 2021
+  Fuel Type      : Diesel
+------------------------------------------------------------
+
+Database connection closed.

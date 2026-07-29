@@ -1,0 +1,17 @@
+Connected to SQLite database successfully.
+Student table created successfully.
+5 student records inserted successfully.
+
+================================================================================
+ID      Name                Age   Gender    Department          Email
+================================================================================
+101     Arun Kumar          20    Male      Computer Science    arun@college.edu
+102     Priya Sharma        21    Female    Electronics         priya@college.edu
+103     Rahul Verma         19    Male      Mechanical          rahul@college.edu
+104     Sneha Patel         22    Female    Civil               sneha@college.edu
+105     Vikram Singh        20    Male      Computer Science    vikram@college.edu
+================================================================================
+
+Total records: 5
+
+Database connection closed.
